@@ -1,2 +1,2 @@
 # Proiectul1
-Hello word
+Hello world
